@@ -10,7 +10,7 @@ export default ()=>(
     <Navbar.Collapse id="responsive-navbar-nav">
       <Nav className="mr-auto container">
         <Nav.Link href="#qualification">Academic Qualification</Nav.Link>
-        <Nav.Link href="#pricing">Language And Subjects</Nav.Link>
+        <Nav.Link href="#language">Language And Subjects</Nav.Link>
        
         <Nav.Link href="#the-team1">Projects</Nav.Link>
         <Nav.Link eventKey={2} href="#memes">
